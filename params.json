@@ -1,4 +1,4 @@
-params = {
+{
     "participants": [
       {
         "el_client_type": "geth",
@@ -10,7 +10,7 @@ params = {
         "beacon_extra_params": [],
         "el_extra_params": [],
         "validator_extra_params": [],
-        "builder_network_params": None,
+        "builder_network_params": null,
         "count": 2
       }
     ],
@@ -26,4 +26,4 @@ params = {
     },
     "global_client_log_level": "info",
     "mev_type": "full"
-  }
+}
